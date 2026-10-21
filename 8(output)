@@ -1,0 +1,11 @@
+Contingency Table:
+Cintent V Cintent A Cintent T Male	23	13	30
+Female	17	35	28 Expected frequencies table:
+Cintent V Cintent A Cintent T
+Male 18.082192 21.69863 26.219178
+Female 21.917808 26.30137 31.780822
+Degrees of freedom: 2
+
+significance: 9.20
+
+Chi-square statistic: 9.80
